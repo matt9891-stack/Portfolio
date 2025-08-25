@@ -1,5 +1,5 @@
 Title : Mattia Russo
-#logo : https://raw.githubusercontent.com/matt9891-stack/Portfolio/main/assets/Foto.jpg
-#description: MSc Data Science | Data Analytics | Risk Management | Retail Optimization
+logo : /assets/Foto.jpg
+description: MSc Data Science | Data Analytics | Risk Management | Retail Optimization
 show_downloads: True
-thenme: Jekyll-theme-minimal
+thenme: jekyll-theme-minimal
