@@ -1,5 +1,6 @@
-Title : Mattia Russo
-logo : /Portfolio/assets/Foto.jpg
+title: Mattia Russo
+logo: /Portfolio/assets/Foto.jpg
 description: MSc Data Science | Data Analytics | Risk Management | Retail Optimization
-show_downloads: True
-thenme: jekyll-theme-minimal
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-architect
