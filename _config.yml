@@ -3,4 +3,4 @@ logo: Portfolio/assets/my_picture.png
 description: MSc Data Science | Data Analytics | Risk Management | Retail Optimization
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
